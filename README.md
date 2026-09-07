@@ -1,7 +1,4 @@
 # Loan Default Prediction
-Student project using SBA loan data to predict whether a loan will default.
-
-## About this project
 This notebook explores Small Business Administration loan data and builds machine learning models to predict whether a loan will be paid back or default.
 In this project, I cleaned the data, explored the relationships between variables, prepared the dataset for modelling and trained models to predict loan default.
 
